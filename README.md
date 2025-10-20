@@ -27,7 +27,7 @@ Permite escanear portas individuais ou ranges, visualizar resultados em tempo re
 ### 2. Instale a dependência necessária:
 
 ```
-python -m pip install --upgrade --extra-index-url https://PySimpleGUI.net/install PySimpleGUI
+python3 -m pip install --upgrade --extra-index-url https://PySimpleGUI.net/install PySimpleGUI
 ```
 ### 3. Clone o repositório:
 ```
