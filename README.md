@@ -60,15 +60,7 @@ Preencha os campos na interface:
 
 
 
-🔹 Exemplo de uso
 
-Após o teste, a tabela mostra portas abertas em verde e fechadas em vermelho, com tempo de resposta e mensagens de erro.
-
-Resumo final exibido ao terminar:
-```
-Total portas testadas: 10
-Portas abertas: 22, 80
-```
 
 🔹 Estrutura do projeto
 
