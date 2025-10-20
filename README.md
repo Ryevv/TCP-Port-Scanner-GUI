@@ -85,6 +85,9 @@ Multithreading ajuda a reduzir o tempo total do scan, especialmente em grandes r
 
 Este projeto é educacional, use de forma ética e somente em redes que você tem permissão para testar.
 
+## Preview da interface gráfica: 
+
+<img width="537" height="494" alt="image" src="https://github.com/user-attachments/assets/6e5e6bdb-a4ff-4081-aecc-df777b62b18a" />
 
 
 
