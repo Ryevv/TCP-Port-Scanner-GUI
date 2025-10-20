@@ -56,6 +56,9 @@ Preencha os campos na interface:
 
 ## 5. Ao final, um resumo das portas abertas aparecerá automaticamente.
 
+<img width="533" height="493" alt="image" src="https://github.com/user-attachments/assets/8c07b730-2acf-4dc2-88e5-76fda7c9e998" />
+
+
 
 🔹 Exemplo de uso
 
@@ -85,9 +88,7 @@ Multithreading ajuda a reduzir o tempo total do scan, especialmente em grandes r
 
 Este projeto é educacional, use de forma ética e somente em redes que você tem permissão para testar.
 
-## Preview da interface gráfica: 
 
-<img width="537" height="494" alt="image" src="https://github.com/user-attachments/assets/6e5e6bdb-a4ff-4081-aecc-df777b62b18a" />
 
 
 
