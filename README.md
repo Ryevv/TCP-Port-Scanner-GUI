@@ -25,9 +25,9 @@ Permite escanear portas individuais ou ranges, visualizar resultados em tempo re
 1. Certifique-se de ter **Python 3.8+** instalado.
 2. Instale a dependência necessária:
 
-```bash
+``
 python -m pip install --upgrade --extra-index-url https://PySimpleGUI.net/install PySimpleGUI
-
+``
 3. Clone o repositório:
 
 git clone https://github.com/SEU_USUARIO/TCP-Port-Scanner-GUI.git
