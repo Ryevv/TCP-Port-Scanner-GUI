@@ -38,7 +38,7 @@ cd TCP-Port-Scanner-GUI
 
 ### 1. Execute o script: 
 ```
-python telnet_port_check_gui.py
+python telnet_port_check.py
 ```
 Preencha os campos na interface:
 
