@@ -22,21 +22,21 @@ Permite escanear portas individuais ou ranges, visualizar resultados em tempo re
 
 ## 🔹 Instalação
 
-# 1. Certifique-se de ter **Python 3.8+** instalado.
+## 1. Certifique-se de ter **Python 3.8+** instalado.
 
-# 2. Instale a dependência necessária:
+## 2. Instale a dependência necessária:
 
 ```
 python -m pip install --upgrade --extra-index-url https://PySimpleGUI.net/install PySimpleGUI
 ```
-# 3. Clone o repositório:
+## 3. Clone o repositório:
 ```
 git clone https://github.com/SEU_USUARIO/TCP-Port-Scanner-GUI.git
 cd TCP-Port-Scanner-GUI
 ```
 ## Como usar
 
-# 1. Execute o script: 
+## 1. Execute o script: 
 ```
 python telnet_port_check_gui.py
 ```
@@ -50,11 +50,11 @@ Timeout: tempo máximo de espera por porta (em segundos)
 
 Threads: número de portas testadas simultaneamente
 
-# 3. Clique em Testar.
+## 3. Clique em Testar.
 
-# 4. A tabela exibirá o status de cada porta em tempo real.
+## 4. A tabela exibirá o status de cada porta em tempo real.
 
-# 5. Ao final, um resumo das portas abertas aparecerá automaticamente.
+## 5. Ao final, um resumo das portas abertas aparecerá automaticamente.
 
 
 🔹 Exemplo de uso
