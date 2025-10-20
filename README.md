@@ -62,7 +62,7 @@ Preencha os campos na interface:
 
 
 
-##🔹 Estrutura do projeto
+## 🔹 Estrutura do projeto
 
 ```
 TCP-Port-Scanner-GUI/
@@ -72,7 +72,7 @@ TCP-Port-Scanner-GUI/
 ```
 
 
-##🔹 Observações
+## 🔹 Observações
 
 PySimpleGUI foi escolhido pela simplicidade e facilidade de manter a interface leve.
 
