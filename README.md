@@ -42,13 +42,13 @@ python telnet_port_check_gui.py
 ```
 Preencha os campos na interface:
 
-Host/IP: o endereço que deseja testar (ex.: 192.168.0.1 ou google.com)
+* Host/IP: o endereço que deseja testar (ex.: 192.168.0.1 ou google.com)
 
-Portas: lista de portas ou ranges (ex.: 22,80,443 ou 20-25,80)
+* Portas: lista de portas ou ranges (ex.: 22,80,443 ou 20-25,80)
 
-Timeout: tempo máximo de espera por porta (em segundos)
+* Timeout: tempo máximo de espera por porta (em segundos)
 
-Threads: número de portas testadas simultaneamente
+* Threads: número de portas testadas simultaneamente
 
 ## 3. Clique em Testar.
 
