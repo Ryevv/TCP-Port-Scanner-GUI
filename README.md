@@ -62,15 +62,6 @@ Preencha os campos na interface:
 
 
 
-## 🔹 Estrutura do projeto
-
-```
-TCP-Port-Scanner-GUI/
-│
-├─ telnet_port_check_gui.py   # Script principal
-├─ README.md                  # Este arquivo
-```
-
 
 ## 🔹 Observações
 
