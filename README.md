@@ -31,7 +31,7 @@ python3 -m pip install --upgrade --extra-index-url https://PySimpleGUI.net/insta
 ```
 ### 3. Clone o repositório:
 ```
-git clone https://github.com/SEU_USUARIO/TCP-Port-Scanner-GUI.git
+git clone https://github.com/Ryevv/TCP-Port-Scanner-GUI.git
 cd TCP-Port-Scanner-GUI
 ```
 # Como usar
